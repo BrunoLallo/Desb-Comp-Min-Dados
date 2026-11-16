@@ -1,21 +1,41 @@
 Minoria %,Classificador,Estratégia,F1-Score,PR-AUC
 2%,Decision Tree,SMOTE (Oversampling Clássico),0.4080 ± 0.1769,0.2165 ± 0.1635
+2%,Decision Tree,SMOTE (Oversampling Clássico),0.4080 ± 0.1769,0.2165 ± 0.1635
+2%,Decision Tree,ADASYN (Oversampling Avançado),0.3846 ± 0.2007,0.2067 ± 0.1981
 2%,Decision Tree,ADASYN (Oversampling Avançado),0.3846 ± 0.2007,0.2067 ± 0.1981
 2%,Decision Tree,SMOTETomek (Híbrido),0.3818 ± 0.1796,0.1984 ± 0.1670
+2%,Decision Tree,SMOTETomek (Híbrido),0.3818 ± 0.1796,0.1984 ± 0.1670
+2%,Decision Tree,Baseline (Sem tratamento),0.3469 ± 0.0882,0.1463 ± 0.0517
 2%,Decision Tree,Baseline (Sem tratamento),0.3469 ± 0.0882,0.1463 ± 0.0517
 2%,Decision Tree,RUS (Undersampling),0.1700 ± 0.0853,0.0852 ± 0.0534
+2%,Decision Tree,RUS (Undersampling),0.1700 ± 0.0853,0.0852 ± 0.0534
+2%,KNN,ADASYN (Oversampling Avançado),0.1127 ± 0.0402,0.0590 ± 0.0380
 2%,KNN,ADASYN (Oversampling Avançado),0.1127 ± 0.0402,0.0590 ± 0.0380
 2%,KNN,SMOTE (Oversampling Clássico),0.1074 ± 0.0342,0.0500 ± 0.0221
+2%,KNN,SMOTE (Oversampling Clássico),0.1074 ± 0.0342,0.0500 ± 0.0221
+2%,KNN,SMOTETomek (Híbrido),0.0991 ± 0.0257,0.0493 ± 0.0215
 2%,KNN,SMOTETomek (Híbrido),0.0991 ± 0.0257,0.0493 ± 0.0215
 2%,KNN,RUS (Undersampling),0.0641 ± 0.0196,0.0443 ± 0.0216
+2%,KNN,RUS (Undersampling),0.0641 ± 0.0196,0.0443 ± 0.0216
+2%,KNN,Baseline (Sem tratamento),0.0308 ± 0.0615,0.0524 ± 0.0465
 2%,KNN,Baseline (Sem tratamento),0.0308 ± 0.0615,0.0524 ± 0.0465
 2%,RandomForest,ADASYN (Oversampling Avançado),0.6134 ± 0.0762,0.6104 ± 0.1406
+2%,RandomForest,ADASYN (Oversampling Avançado),0.6134 ± 0.0762,0.6104 ± 0.1406
+2%,RandomForest,SMOTE (Oversampling Clássico),0.5931 ± 0.0484,0.6400 ± 0.1272
 2%,RandomForest,SMOTE (Oversampling Clássico),0.5931 ± 0.0484,0.6400 ± 0.1272
 2%,RandomForest,SMOTETomek (Híbrido),0.5834 ± 0.0972,0.6419 ± 0.1428
+2%,RandomForest,SMOTETomek (Híbrido),0.5834 ± 0.0972,0.6419 ± 0.1428
+2%,RandomForest,RUS (Undersampling),0.3036 ± 0.1233,0.5736 ± 0.1054
 2%,RandomForest,RUS (Undersampling),0.3036 ± 0.1233,0.5736 ± 0.1054
 2%,RandomForest,Baseline (Sem tratamento),0.2419 ± 0.0993,0.5374 ± 0.1372
+2%,RandomForest,Baseline (Sem tratamento),0.2419 ± 0.0993,0.5374 ± 0.1372
+2%,SVC,RUS (Undersampling),0.0980 ± 0.0561,0.0919 ± 0.0575
 2%,SVC,RUS (Undersampling),0.0980 ± 0.0561,0.0919 ± 0.0575
 2%,SVC,SMOTETomek (Híbrido),0.0752 ± 0.0090,0.1183 ± 0.0463
+2%,SVC,SMOTETomek (Híbrido),0.0752 ± 0.0090,0.1183 ± 0.0463
+2%,SVC,ADASYN (Oversampling Avançado),0.0751 ± 0.0076,0.1034 ± 0.0493
 2%,SVC,ADASYN (Oversampling Avançado),0.0751 ± 0.0076,0.1034 ± 0.0493
 2%,SVC,SMOTE (Oversampling Clássico),0.0749 ± 0.0089,0.1182 ± 0.0464
+2%,SVC,SMOTE (Oversampling Clássico),0.0749 ± 0.0089,0.1182 ± 0.0464
+2%,SVC,Baseline (Sem tratamento),0.0000 ± 0.0000,0.1406 ± 0.1004
 2%,SVC,Baseline (Sem tratamento),0.0000 ± 0.0000,0.1406 ± 0.1004

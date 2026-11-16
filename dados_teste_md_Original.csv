@@ -1,0 +1,25 @@
+Minoria %,Classificador,Estratégia,F1-Score,PR-AUC
+Original,Decision Tree,SMOTETomek (Híbrido),0.8936 ± 0.0083,0.8349 ± 0.0106
+Original,Decision Tree,SMOTE (Oversampling Clássico),0.8914 ± 0.0125,0.8317 ± 0.0148
+Original,Decision Tree,ADASYN (Oversampling Avançado),0.8873 ± 0.0185,0.8267 ± 0.0252
+Original,Decision Tree,RUS (Undersampling),0.8834 ± 0.0153,0.8174 ± 0.0247
+Original,Decision Tree,Baseline (Sem tratamento),0.8819 ± 0.0078,0.8223 ± 0.0115
+Original,Decision Tree,Baseline (Sem tratamento),0.8819 ± 0.0078,0.8223 ± 0.0115
+Original,KNN,SMOTETomek (Híbrido),0.7577 ± 0.0214,0.7663 ± 0.0216
+Original,KNN,SMOTE (Oversampling Clássico),0.7546 ± 0.0195,0.7707 ± 0.0202
+Original,KNN,ADASYN (Oversampling Avançado),0.7528 ± 0.0125,0.7668 ± 0.0161
+Original,KNN,Baseline (Sem tratamento),0.7503 ± 0.0114,0.7764 ± 0.0178
+Original,KNN,Baseline (Sem tratamento),0.7503 ± 0.0114,0.7764 ± 0.0178
+Original,KNN,RUS (Undersampling),0.7447 ± 0.0163,0.7623 ± 0.0205
+Original,RandomForest,ADASYN (Oversampling Avançado),0.9431 ± 0.0056,0.9807 ± 0.0043
+Original,RandomForest,RUS (Undersampling),0.9425 ± 0.0069,0.9814 ± 0.0044
+Original,RandomForest,SMOTE (Oversampling Clássico),0.9415 ± 0.0049,0.9810 ± 0.0041
+Original,RandomForest,Baseline (Sem tratamento),0.9406 ± 0.0085,0.9811 ± 0.0046
+Original,RandomForest,Baseline (Sem tratamento),0.9406 ± 0.0085,0.9811 ± 0.0046
+Original,RandomForest,SMOTETomek (Híbrido),0.9378 ± 0.0062,0.9796 ± 0.0042
+Original,SVC,ADASYN (Oversampling Avançado),0.6499 ± 0.0128,0.7062 ± 0.0257
+Original,SVC,SMOTETomek (Híbrido),0.6357 ± 0.0123,0.7063 ± 0.0237
+Original,SVC,SMOTE (Oversampling Clássico),0.6331 ± 0.0118,0.7066 ± 0.0251
+Original,SVC,RUS (Undersampling),0.6274 ± 0.0105,0.6985 ± 0.0247
+Original,SVC,Baseline (Sem tratamento),0.5512 ± 0.0104,0.7169 ± 0.0206
+Original,SVC,Baseline (Sem tratamento),0.5512 ± 0.0104,0.7169 ± 0.0206
